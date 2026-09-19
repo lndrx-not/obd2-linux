@@ -1,0 +1,19 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+
+# Executables
+obd2_example
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
